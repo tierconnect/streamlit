@@ -1,0 +1,266 @@
+[
+  {
+    "organization_name": "FarmtoCorl",
+    "gln": "061728392",
+    "sites": [
+      {
+        "name": "FarmtoCorl Site 0",
+        "gln": "0617283921717"
+      },
+      {
+        "name": "FarmtoCorl Site 1",
+        "gln": "0617283926671"
+      },
+      {
+        "name": "FarmtoCorl Site 2",
+        "gln": "0617283926544"
+      },
+      {
+        "name": "FarmtoCorl Site 3",
+        "gln": "0617283929915"
+      }
+    ]
+  },
+  {
+    "organization_name": "FarmDept",
+    "gln": "073000276",
+    "sites": [
+      {
+        "name": "FarmDept Site 0",
+        "gln": "0730002761429"
+      },
+      {
+        "name": "FarmDept Site 1",
+        "gln": "0730002769645"
+      },
+      {
+        "name": "FarmDept Site 2",
+        "gln": "0730002767478"
+      },
+      {
+        "name": "FarmDept Site 3",
+        "gln": "0730002762043"
+      }
+    ]
+  },
+  {
+    "organization_name": "FarmFibre",
+    "gln": "025185041",
+    "sites": [
+      {
+        "name": "FarmFibre Site 0",
+        "gln": "0251850416516"
+      },
+      {
+        "name": "FarmFibre Site 1",
+        "gln": "0251850415108"
+      },
+      {
+        "name": "FarmFibre Site 2",
+        "gln": "0251850417760"
+      },
+      {
+        "name": "FarmFibre Site 3",
+        "gln": "0251850419346"
+      }
+    ]
+  },
+  {
+    "organization_name": "LittleCows",
+    "gln": "067877679",
+    "sites": [
+      {
+        "name": "LittleCows Site 0",
+        "gln": "0678776798592"
+      },
+      {
+        "name": "LittleCows Site 1",
+        "gln": "0678776791828"
+      },
+      {
+        "name": "LittleCows Site 2",
+        "gln": "0678776795111"
+      },
+      {
+        "name": "LittleCows Site 3",
+        "gln": "0678776795966"
+      }
+    ]
+  },
+  {
+    "organization_name": "OnionFarmer",
+    "gln": "040329313",
+    "sites": [
+      {
+        "name": "OnionFarmer Site 0",
+        "gln": "0403293138548"
+      },
+      {
+        "name": "OnionFarmer Site 1",
+        "gln": "0403293134934"
+      },
+      {
+        "name": "OnionFarmer Site 2",
+        "gln": "0403293132755"
+      },
+      {
+        "name": "OnionFarmer Site 3",
+        "gln": "0403293137500"
+      }
+    ]
+  },
+  {
+    "organization_name": "Pizza Mojix",
+    "gln": "032492837",
+    "sites": [
+      {
+        "name": "Pizza Mojix Site 0",
+        "gln": "0324928377788"
+      },
+      {
+        "name": "Pizza Mojix Site 1",
+        "gln": "0324928376749"
+      },
+      {
+        "name": "Pizza Mojix Site 2",
+        "gln": "0324928377482"
+      },
+      {
+        "name": "Pizza Mojix Site 3",
+        "gln": "0324928375485"
+      }
+    ]
+  },
+  {
+    "organization_name": "The Bar",
+    "gln": "053084808",
+    "sites": [
+      {
+        "name": "The Bar Site 0",
+        "gln": "0530848085417"
+      },
+      {
+        "name": "The Bar Site 1",
+        "gln": "0530848085867"
+      },
+      {
+        "name": "The Bar Site 2",
+        "gln": "0530848087902"
+      },
+      {
+        "name": "The Bar Site 3",
+        "gln": "0530848081074"
+      }
+    ]
+  },
+  {
+    "organization_name": "Burger Venue",
+    "gln": "044015750",
+    "sites": [
+      {
+        "name": "Burger Venue Site 0",
+        "gln": "0440157508219"
+      },
+      {
+        "name": "Burger Venue Site 1",
+        "gln": "0440157501341"
+      },
+      {
+        "name": "Burger Venue Site 2",
+        "gln": "0440157501556"
+      },
+      {
+        "name": "Burger Venue Site 3",
+        "gln": "0440157502249"
+      }
+    ]
+  },
+  {
+    "organization_name": "Foods Distributor",
+    "gln": "012607911",
+    "sites": [
+      {
+        "name": "Foods Distributor Site 0",
+        "gln": "0126079115169"
+      },
+      {
+        "name": "Foods Distributor Site 1",
+        "gln": "0126079115224"
+      },
+      {
+        "name": "Foods Distributor Site 2",
+        "gln": "0126079113132"
+      },
+      {
+        "name": "Foods Distributor Site 3",
+        "gln": "0126079119434"
+      }
+    ]
+  },
+  {
+    "organization_name": "Big Chain Distributor",
+    "gln": "027498019",
+    "sites": [
+      {
+        "name": "Big Chain Distributor Site 0",
+        "gln": "0274980194876"
+      },
+      {
+        "name": "Big Chain Distributor Site 1",
+        "gln": "0274980191603"
+      },
+      {
+        "name": "Big Chain Distributor Site 2",
+        "gln": "0274980193656"
+      },
+      {
+        "name": "Big Chain Distributor Site 3",
+        "gln": "0274980192141"
+      }
+    ]
+  },
+  {
+    "organization_name": "Freezing Food Ltda",
+    "gln": "019981287",
+    "sites": [
+      {
+        "name": "Freezing Food Ltda Site 0",
+        "gln": "0199812878878"
+      },
+      {
+        "name": "Freezing Food Ltda Site 1",
+        "gln": "0199812873881"
+      },
+      {
+        "name": "Freezing Food Ltda Site 2",
+        "gln": "0199812876504"
+      },
+      {
+        "name": "Freezing Food Ltda Site 3",
+        "gln": "0199812878472"
+      }
+    ]
+  },
+  {
+    "organization_name": "Moving Food Dot Co",
+    "gln": "022521689",
+    "sites": [
+      {
+        "name": "Moving Food Dot Co Site 0",
+        "gln": "0225216891009"
+      },
+      {
+        "name": "Moving Food Dot Co Site 1",
+        "gln": "0225216897922"
+      },
+      {
+        "name": "Moving Food Dot Co Site 2",
+        "gln": "0225216892049"
+      },
+      {
+        "name": "Moving Food Dot Co Site 3",
+        "gln": "0225216895982"
+      }
+    ]
+  }
+]
