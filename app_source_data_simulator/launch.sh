@@ -1,0 +1,1 @@
+streamlit run app.py --server.port=8080  --browser.serverAddress="0.0.0.0"
